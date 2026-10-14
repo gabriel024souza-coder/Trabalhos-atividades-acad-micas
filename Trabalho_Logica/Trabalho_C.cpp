@@ -176,7 +176,6 @@ int main () {
 							}
 
 							qntProduCadastrados--;
-							i = qntProduCadastrados;
 							printf("Produto excluido!");
 						}
 
